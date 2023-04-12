@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MapszApp</string>
+    <string name="title_activity_maps">マップアクティビティ</string>
+    <string name="label_azimuth_string">方位角 :</string>
+    <string name="label_pitch_string">ピッチ :</string>
+    <string name="label_roll_string">ロール:</string>
+    <string name="appwidget_text">例</string>
+    <string name="add_widget">ウィジェットを追加</string>
+    <string name="app_widget_description">これはアプリ ウィジェットの説明です</string>
+    <string name="hello_blank_fragment">こんにちは空白のフラグメント</string>
+    <string name="action_language">言語</string>
+</resources>

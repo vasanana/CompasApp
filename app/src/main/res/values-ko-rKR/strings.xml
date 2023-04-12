@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MapszApp</string>
+    <string name="title_activity_maps">지도 활동</string>
+    <string name="label_azimuth_string">방위각 :</string>
+    <string name="label_pitch_string">정점 :</string>
+    <string name="label_roll_string">롤 :</string>
+    <string name="appwidget_text">예</string>
+    <string name="add_widget">위젯 추가</string>
+    <string name="app_widget_description">앱 위젯 설명입니다.</string>
+    <string name="hello_blank_fragment">안녕하세요 빈 조각</string>
+    <string name="action_language">언어</string>
+</resources>
